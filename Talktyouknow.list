@@ -1,13 +1,13 @@
 DOMAIN-SUFFIX,inner-active.mobi
-#DOMAIN-SUFFIX,cupdapp.com
+DOMAIN-SUFFIX,cupdapp.com
 DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,criteo.com
-#DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,mobilefuse.com
 DOMAIN-SUFFIX,smaato.net
-#DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,tappx.com
 DOMAIN-SUFFIX,criteo.com
-#DOMAIN-SUFFIX,appiersig.com
+DOMAIN-SUFFIX,appiersig.com
 DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,analytics-services.com
