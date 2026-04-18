@@ -1,0 +1,8 @@
+#!name=Talkatone 代理分流
+#!desc=Talkatone 需要走代理的域名（纯规则版）
+
+# 以下为该软件可能需要走代理的规则
+DOMAIN-SUFFIX,tktn.at
+DOMAIN-SUFFIX,tktn.be
+DOMAIN-SUFFIX,vm.talkatone.com
+DOMAIN-SUFFIX,tenor.com
